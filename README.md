@@ -1,1 +1,1 @@
-# bouncing-balls
+# CP-2
